@@ -1,0 +1,49 @@
+# R / Positron / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+*.Rproj.user
+.Rdata
+.httr-oauth
+.positron/
+.vscode/
+
+# renv (biblioteka pakietów - nie wersjonujemy)
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# Quarto / R Markdown / knitr
+/.quarto/
+*_cache/
+*_files/
+/_site/
+/_freeze/
+rsconnect/
+
+# targets
+_targets/
+
+# Skompilowane
+*.o
+*.so
+*.dll
+
+# Dane i wyniki (duże pliki trzymamy poza repo)
+data-raw/
+*.tif
+*.rds
+*.rda
+*.RData
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
