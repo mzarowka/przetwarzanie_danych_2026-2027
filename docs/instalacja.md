@@ -21,14 +21,13 @@ Otworzy się okno z migającym kursorem po znaku zachęty, np. `PS C:\Users\Twoj
 **Jak z niego korzystać:**
 
 - Wpisz polecenie i naciśnij **Enter**. Program wykona je i wypisze wynik.
-- Polecenia z tej instrukcji (ciemne ramki) możesz **kopiować i wklejać** — wklejanie to prawy przycisk myszy lub `Ctrl+V`.
+- Polecenia z tej instrukcji (ciemne ramki) możesz **kopiować i wklejać**.
 - Wypróbuj na początek polecenie, które wypisze dzisiejszą datę:
 
 ```powershell
 Get-Date
 ```
 
-- Okno zamykasz krzyżykiem albo poleceniem `exit`.
 
 ## 1. Git
 
